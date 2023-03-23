@@ -4,7 +4,7 @@ This is a voice assistant project that uses natural language processing and spee
 <h2>Installation</h2>
 To install this voice assistant on your machine, follow these steps:
 <ol>
-  <li>Clone this repository: git clone </li>
+  <li>Clone this repository: 'git clone https://github.com/AdityaGupta1509/Voice-Assistant-Z-.git'</li>
   <li>Install the necessary API's</li>
   <li>Run the voice assistant: 'python Voice Assistant (Z).ipynb'</li>
 </ol>

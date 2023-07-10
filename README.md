@@ -6,7 +6,7 @@ To install this voice assistant on your machine, follow these steps:
 <ol>
   <li>Clone this repository: 'git clone https://github.com/AdityaGupta1509/Voice-Assistant-Z-.git'</li>
   <li>Install the necessary API's</li>
-  <li>Run the voice assistant: 'python Voice Assistant (Z).ipynb'</li>
+  <li>Run the voice assistant: 'python Voice Assistant-Z.ipynb'</li>
 </ol>
 
 <h2>Usage</h2>
